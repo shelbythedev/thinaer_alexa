@@ -1,0 +1,19 @@
+{
+  "name": "thinaer_alexa",
+  "version": "1.0.0",
+  "description": "Amazon Alexa skill for the THINaer platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelbythedev/thinaer_alexa.git"
+  },
+  "author": "Shelby Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shelbythedev/thinaer_alexa/issues"
+  },
+  "homepage": "https://github.com/shelbythedev/thinaer_alexa#readme"
+}
